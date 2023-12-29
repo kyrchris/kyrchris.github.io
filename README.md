@@ -24,10 +24,14 @@ excel procedures and reduce workloads from hours to minutes. Designed both the u
 
 ## Computers literacy
 
-### Microsoft Excel - Expert     |    R-programming - Expert
-### Excel VBA - Expert           |    Git - Experienced
-### SQL - Experienced            |    Python - Experienced
-### HTML & CSS - Skillful
+| Software | Level |
+|----------|----------|
+| Microsoft Excel | Expert |
+| R-programming | Expert |
+| Excel VBA | Expert |
+| Git | Experienced |
+| Python | Experienced |
+| HTML & CSS | Skillful |
 
 ## Projects
 
