@@ -18,9 +18,9 @@
 
 ## Computers literacy
 
-### Microsoft Excel - Expert         R-programming - Expert
-### Excel VBA - Expert               Git - Experienced
-### SQL - Experienced                Python - Experienced
+### Microsoft Excel - Expert     |    R-programming - Expert
+### Excel VBA - Expert           |    Git - Experienced
+### SQL - Experienced            |    Python - Experienced
 ### HTML & CSS - Skillful
 
 ## Projects
