@@ -1,21 +1,9 @@
-# Portfolio Performance Analyst
+# Portfolio Page
 
 ## Social Media
 
 ### [LinkedIn](https://www.linkedin.com/in/christos-kyriacou-31109618b/)
 
-## Education
-
-### University of Cyprus 
-BSc International European and Economic Studies (Final Grade 8.19/10)
-<br><br>
-### University of Glasgow
-MSc Financial Economics (Distinction)
-
-## Work Experience
-
-### Portfolio Performance Analyst, Albourne Partners Cyprus Ltd 
-Jun 2022 - Present
 ## Computers literacy
 
 | Software | Level |
