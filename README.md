@@ -36,7 +36,7 @@ excel procedures and reduce workloads from hours to minutes. Designed both the u
 
 ## Projects
 
-### [Downloads folder cleaner - Python Project](https://github.com/kyrchris)
+### [Downloads folder cleaner - Python Project](https://github.com/kyrchris/AutoFileOrganizer/tree/main)
 
 • This Python script, leveraging the `watchdog` library, monitors and organizes the user's Downloads folder. Specifically designed for macOS users, it intelligently categorizes documents based on file extensions and cleans up the folder by moving them to the 'output_folder'. Notably, it excludes files named 'output_folder' or '.DS_Store' from processing.
 <br>
