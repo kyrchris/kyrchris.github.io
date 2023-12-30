@@ -7,7 +7,7 @@
 ## Education
 
 ### University of Cyprus 
-BSc International European and Economic Studies (First – Final Grade 8.19/10)
+BSc International European and Economic Studies (Final Grade 8.19/10)
 <br><br>
 ### University of Glasgow
 MSc Financial Economics (Distinction)
