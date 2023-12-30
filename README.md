@@ -1,5 +1,9 @@
 # Portfolio Performance Analyst
 
+## Social Media
+
+### [LinkedIn](https://www.linkedin.com/in/christos-kyriacou-31109618b/)
+
 ## Education
 
 ### University of Cyprus 
