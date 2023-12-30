@@ -3,10 +3,10 @@
 ## Education
 
 ### University of Cyprus 
-- BSc International European and Economic Studies (First – Final Grade 8.19/10)
+BSc International European and Economic Studies (First – Final Grade 8.19/10)
 <br><br>
 ### University of Glasgow
-- MSc Financial Economics (Distinction)
+MSc Financial Economics (Distinction)
 
 ## Work Experience
 
@@ -36,6 +36,8 @@ excel procedures and reduce workloads from hours to minutes. Designed both the u
 
 ## Projects
 
-### Downloads folder cleaner - Python Project
+### [Downloads folder cleaner - Python Project](https://github.com/kyrchris)
 
-• A python script that cleans up the download folder and automatically assignes documents into folders based on the type of the document
+• This Python script, leveraging the `watchdog` library, monitors and organizes the user's Downloads folder. Specifically designed for macOS users, it intelligently categorizes documents based on file extensions and cleans up the folder by moving them to the 'output_folder'. Notably, it excludes files named 'output_folder' or '.DS_Store' from processing.
+<br>
+The script is ideal for users looking to automate and declutter their Downloads folder, providing a streamlined solution for document categorization and cleanup.
